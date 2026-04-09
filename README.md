@@ -1,7 +1,8 @@
 # Presentaciones académicas de Bernardino Alcázar Navarrete
 
 Profesor del Departamento de Medicina, Universidad de Granada  
-Neumología, Hospital Universitario Virgen de las Nieves
+Jefe de Sección de Neumología, Hospital Universitario Virgen de las Nieves. Granada
+Investigador principal del Grupo E17-Investigación en Neumología: Terapia y Analítica Avanzada del IBS.Granada
 
 Este repositorio recoge presentaciones académicas, sesiones docentes y ponencias científicas relacionadas con EPOC, biomarcadores, metodología y docencia.
 
